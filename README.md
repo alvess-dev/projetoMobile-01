@@ -11,5 +11,4 @@ Luis Gustavo
 npm install & npm install -g @ionic/cli
 
 ## Avisos:
-Os participantes da equipe são parecidos, porém, apenas coincidência.
-O header não foi colocado por motivos estéticos.
+Os participantes da equipe são parecidos, porém, apenas coincidência e o header não foi colocado por motivos estéticos.
