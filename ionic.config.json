@@ -1,0 +1,7 @@
+{
+  "name": "projetoPam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
