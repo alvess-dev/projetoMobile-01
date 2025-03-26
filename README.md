@@ -1,14 +1,28 @@
 # PROJETO-MOBILE-01
+Projeto desenvolvido para a aula de Programação de Apps Mobile III da Etec Praia Grande, com o grupo do TCC.
 
-## Nomes no projeto:
-Ana Beatriz  
-Fernando Agostinho  
-Helena Neves  
-Luis Fernando  
-Luis Gustavo  
+## Participantes
+- Ana Beatriz
+- Fernando Agostinho
+- Helena Neves
+- Luis Fernando
+- Luis Gustavo
+  
+## Tecnologias utilizadas
+- **Ionic**
+- **Angular**
+- **Html**
+- **Css**
+- **TypeScript**
 
-## Dependências:
-npm install & npm install -g @ionic/cli
+## Configuração do projeto
+**1. Clonando o Repositório**
+```bash
+  git clone https://github.com/alvess-dev/projetoMobile-01.git
+  cd projetoMobile-01
+```
 
-## Avisos:
-Os participantes da equipe são parecidos, porém, apenas coincidência e o header não foi colocado por motivos estéticos.
+Rode o seguinte comando no diretório do projeto:
+  ```bash
+  npm install && npm install -g @ionic/cli
+```
