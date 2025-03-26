@@ -9,3 +9,7 @@ Luis Gustavo
 
 ## Dependências:
 npm install & npm install -g @ionic/cli
+
+## Avisos:
+Os participantes da equipe são parecidos, porém, apenas coincidência.
+O header não foi colocado por motivos estéticos.
