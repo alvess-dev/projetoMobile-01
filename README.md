@@ -6,5 +6,6 @@ Fernando Agostinho
 Helena Neves  
 Luis Fernando  
 Luis Gustavo  
-##Dependências
+
+## Dependências:
 npm install & npm install -g @ionic/cli
