@@ -1,5 +1,6 @@
 # PROJETO-MOBILE-01
 Projeto desenvolvido para a aula de Programação de Apps Mobile III da Etec Praia Grande, com o grupo do TCC.
+(O header não foi colocado por motivos estéticos)
 
 ## Participantes
 - Ana Beatriz
@@ -25,4 +26,9 @@ Projeto desenvolvido para a aula de Programação de Apps Mobile III da Etec Pra
 Rode o seguinte comando no diretório do projeto:
   ```bash
   npm install && npm install -g @ionic/cli
+```
+
+Rode o seguinte comando para abrir o projeto:
+  ```bash
+  ionic serve
 ```
